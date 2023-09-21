@@ -1,0 +1,12 @@
+.button {
+  margin: 8px 0px;
+  background: rgb(137, 14, 182);
+  color: white;
+  padding: 3px 6px;
+  display: flex;
+}
+
+.button:hover,
+.button:active {
+  cursor: pointer;
+}
